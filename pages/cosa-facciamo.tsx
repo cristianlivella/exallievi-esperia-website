@@ -43,7 +43,7 @@ const CosaFacciamoPage = () => {
                     height={1000}
                     src='/img/progetti/Museo_Time_Prima.jpg'
                     className='h-full w-full object-cover'
-                    priority
+                    loading='lazy'
                   />
                   <p className='text-center w-full mt-3 dark:text-gray-200'>
                     Prima
@@ -57,7 +57,7 @@ const CosaFacciamoPage = () => {
                     height={1000}
                     src='/img/progetti/Museo_Time_Dopo.jpg'
                     className='h-full w-full object-cover'
-                    priority
+                    loading='lazy'
                   />
                   <p className='text-center w-full mt-3 dark:text-gray-200'>
                     Dopo
@@ -153,7 +153,7 @@ const CosaFacciamoPage = () => {
                     height={1000}
                     src='/img/progetti/Sala_Immersiva_Prima.jpg'
                     className='h-full w-full object-cover'
-                    priority
+                    loading='lazy'
                   />
                   <p className='text-center w-full mt-3 dark:text-gray-200'>
                     Prima
@@ -167,7 +167,7 @@ const CosaFacciamoPage = () => {
                     height={1000}
                     src='/img/progetti/Sala_Immersiva_Dopo.jpg'
                     className='h-full w-full object-cover'
-                    priority
+                    loading='lazy'
                   />
                   <p className='text-center w-full mt-3 dark:text-gray-200'>
                     Dopo

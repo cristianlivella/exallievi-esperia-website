@@ -96,6 +96,7 @@ const ChiSiamoPage = () => {
             width={1280}
             height={350}
             className='mt-10 w-full h-56 sm:h-80 md:h-96 lg:h-[32rem] object-cover object-top'
+            loading='lazy'
           />
 
           <div className='grid grid-cols-1 md:grid-cols-2 gap-x-20 gap-y-10 md:gap-y-0 mt-10 items-center'>
@@ -148,6 +149,7 @@ const ChiSiamoPage = () => {
               alt='Ex allievi medaglia centenario'
               width={1200}
               height={675}
+              loading='lazy'
             />
           </div>
         </div>
@@ -161,6 +163,7 @@ const ChiSiamoPage = () => {
             alt='Gli Ex Allievi oggi '
             width={1280}
             height={500}
+            loading='lazy'
           />
 
           <div className='bg-[#f25116] text-white mt-8 md:mt-16 font-semibold flex flex-col md:flex-row justify-around items-center text-2xl p-8 gap-y-20 shadow-lg rounded-md'>

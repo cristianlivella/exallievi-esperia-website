@@ -17,6 +17,7 @@ const PageNotFound = () => {
             alt='404 pagina non trovata'
             width={300}
             height={300}
+            loading='lazy'
           />
 
           <h1 className='mt-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-5xl text-center'>

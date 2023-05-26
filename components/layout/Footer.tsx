@@ -66,6 +66,7 @@ const Footer: React.FC = () => {
                 alt='Logo Ex Allievi Esperia'
                 width={48}
                 height={48}
+                loading='lazy'
               />
             </Link>
 

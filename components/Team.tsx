@@ -23,6 +23,7 @@ const Team: React.FC<TeamProps> = ({ name, role, image, contacts }) => {
         width={200}
         height={200}
         className='rounded-full p-4 sm:p-0'
+        loading='lazy'
       />
 
       <div className='flex flex-col items-center text-center'>

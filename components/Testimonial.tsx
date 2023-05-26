@@ -31,6 +31,7 @@ const Testimonial: React.FC<TestimonialProps> = ({
           height={100}
           src={image}
           alt='Testimonial picture'
+          loading='lazy'
         />
         <div className='flex flex-col basis-[70%]'>
           <p className='font-bold text-base dark:text-gray-200'>{name}</p>

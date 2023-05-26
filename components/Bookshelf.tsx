@@ -30,8 +30,8 @@ const Bookshelf: React.FC<BookshelfProps> = ({
           alt={rivista.imgAlt}
           width={150}
           height={212}
-          priority
           className='translate-y-9'
+          loading='lazy'
         />
         <span className='font-bold bg-[#f25116] text-white px-3 rounded-full z-10 translate-y-5'>
           {rivista.year}

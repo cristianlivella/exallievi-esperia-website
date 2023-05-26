@@ -137,6 +137,7 @@ const Header: React.FC = () => {
               alt='Logo Ex Allievi Esperia'
               width={48}
               height={48}
+              loading='lazy'
             />
             <span className='text-2xl dark:text-white'>Ex Allievi Esperia</span>
           </Link>
@@ -255,6 +256,7 @@ const Header: React.FC = () => {
                 alt='Logo Ex Allievi Esperia'
                 width={48}
                 height={48}
+                loading='lazy'
               />
               <span className='text-2xl dark:text-white'>
                 Ex Allievi Esperia

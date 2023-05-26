@@ -48,6 +48,7 @@ const SectionImage: React.FC<SectionImageProps> = ({
               className='h-full w-full object-cover'
               width={506}
               height={337}
+              loading='lazy'
             />
           </div>
         </div>

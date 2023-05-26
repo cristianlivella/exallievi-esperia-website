@@ -82,7 +82,7 @@ const SostieniPage = () => {
               width={533}
               height={753}
               className='w-full md:w-1/2 object-contain aspect-auto sm:aspect-square'
-              priority
+              loading='lazy'
             />
           </div>
         </div>
@@ -115,6 +115,7 @@ const SostieniPage = () => {
                 width={193}
                 height={106}
                 className='object-contain'
+                loading='lazy'
               />
             </Link>
           </div>
@@ -154,6 +155,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-12 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -164,6 +166,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-12 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -174,6 +177,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-12 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -184,6 +188,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-14 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -194,6 +199,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-14 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -204,6 +210,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-10 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -214,6 +221,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-16 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -224,6 +232,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-16 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -234,6 +243,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-16 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -244,6 +254,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-16 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -254,6 +265,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-24 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -264,6 +276,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-14 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -274,6 +287,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-14 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -284,6 +298,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-10 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -294,6 +309,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-24 w-full'
+                loading='lazy'
               />
             </div>
 
@@ -304,6 +320,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-20 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -314,6 +331,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-20 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -324,6 +342,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-16 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
 
@@ -334,6 +353,7 @@ const SostieniPage = () => {
                 width={100}
                 height={100}
                 className='object-contain h-14 w-full absolute top-0 bottom-0 right-0 left-0 m-auto'
+                loading='lazy'
               />
             </div>
           </Slider>
