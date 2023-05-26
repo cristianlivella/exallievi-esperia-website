@@ -16,7 +16,7 @@
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "gray-matter": "^4.0.3",
-    "next": "cristianlivella/next.js#canary",
+    "next": "git+https://github.com/cristianlivella/next.js.git#canary",
     "next-themes": "^0.2.1",
     "normalize.css": "^8.0.1",
     "photoswipe": "^5.3.7",
